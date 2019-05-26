@@ -8,4 +8,3 @@
 <#61b93946-6557-48a1-b967-431389c87394>
   a <../deps/togaf.ttl#63670348-7b3d-43fe-a1b2-f6eab42d70c1> ;
   rdfs:label "access control" .
-

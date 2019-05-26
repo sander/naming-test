@@ -20,4 +20,3 @@
 <#63670348-7b3d-43fe-a1b2-f6eab42d70c1>
   a <#e7988cba-6dab-4922-9f8c-01342bcce496> ;
   rdfs:label "application function" .
-
